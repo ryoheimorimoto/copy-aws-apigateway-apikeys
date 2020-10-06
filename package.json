@@ -1,0 +1,26 @@
+{
+  "name": "copy-aws-apigateway-apikeys",
+  "version": "0.1.0",
+  "description": "Copying API Keys of Amazon API Gateway to another environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryoheimorimoto/copy-aws-apigateway-apikeys.git"
+  },
+  "keywords": [
+    "AmazonAPIGateway",
+    "AWS"
+  ],
+  "author": "ryoheimorimoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryoheimorimoto/copy-aws-apigateway-apikeys/issues"
+  },
+  "homepage": "https://github.com/ryoheimorimoto/copy-aws-apigateway-apikeys#readme",
+  "dependencies": {
+    "aws-sdk": "^2.766.0"
+  }
+}
